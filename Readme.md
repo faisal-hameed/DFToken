@@ -23,7 +23,7 @@ Install compatible version of ethers `npm install ethers@4.0.20`
 ### Cleanup unsed files
 Delete files from contracts(except Migrations.sol) and test folders.
 
-### Create BTProperty.sol in Remix
+### Create DFToken.sol in Remix
 Create Smart Contract in Remix and make sure there is no compilation errors
 
 ### Running the truffle
